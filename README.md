@@ -1,2 +1,1 @@
-# Prepcurso_Henry
-Este es un repositorio de prueba del Netbook 2 de Henry
+Este es una prueba de como crear un repositorio y clonarlo desde github a mi computadora
